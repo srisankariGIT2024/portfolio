@@ -1,5 +1,5 @@
 {
-  "homepage": "http://srisankarigit2024.github.io/portfolio",
+  "homepage": "https://srisankarigit2024.github.io/portfolio",
   "name": "portfolio_react",
   "private": true,
   "version": "0.0.0",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.6.0",
-    "@heroicons/react": "^2.1.5",
+    "@heroicons/react": "^2.1.5",    
     "@remixicon/react": "^4.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
